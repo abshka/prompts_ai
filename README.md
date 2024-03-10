@@ -1,8 +1,6 @@
 # Awesome Neural Network Prompts Library 🧠🚀
 
-![GitHub last commit](https://img.shields.io/github/last-commit/abshka/prompts_ai/main)
-![GitHub contributors](https://img.shields.io/github/contributors/abshka/prompts_ai/main)
-![GitHub stars](https://img.shields.io/github/stars/abshka/prompts_ai?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/abshka/prompts_ai)
 
 Этот проект представляет собой библиотеку промптов для нейросетей, которая поможет вам максимально эффективно обучать ваши модели и достигать лучших результатов.
 
