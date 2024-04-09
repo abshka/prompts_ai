@@ -16,19 +16,20 @@
 
 ## Структура проекта
 
-Проект организован в виде дерева областей, где каждая папка содержит промпты для конкретной области. Например:
+Проект организован в виде дерева областей, где каждая папка содержит промпты для конкретной области. Вы переходите в нужную папку и находите .txt файл с нужной Ролью. Для удобства созданы ссылки с переходом:
 
-* Общее
-  + Генератор промптов
-  + Психолог (test)
-* Разработка
-  + Python
-  + Kotlin
-  + SQL
-  + Java
-* Образование
-  + Разработка программы обучения
-  + Советник
+### Дерево областей
+
+* [Общее](https://github.com/abshka/prompts_ai/tree/main/Common)
+  + [Генератор промптов](https://github.com/abshka/prompts_ai/blob/main/Common/Promt's%20Creator.txt)
+  + [Психолог (test)](https://github.com/abshka/prompts_ai/tree/main/Common/Psychologist.txt)
+* [Разработка](https://github.com/abshka/prompts_ai/tree/main/Development)
+  + [Python](https://github.com/abshka/prompts_ai/tree/main/Development/Python.txt)
+  + [Kotlin](https://github.com/abshka/prompts_ai/tree/main/Development/Kotlin.txt)
+  + [SQL](https://github.com/abshka/prompts_ai/tree/main/Development/SQL.txt)
+  + [Java](https://github.com/abshka/prompts_ai/tree/main/Development/Java.txt)
+* [Образование](https://github.com/abshka/prompts_ai/tree/main/Education)
+  + [Разработка плана обучения](https://github.com/abshka/prompts_ai/tree/main/Education/Tutor.txt)
 
 ## Применение промптов
 
